@@ -1,0 +1,14 @@
+body{background-color:lightcyan;color:black;width:300px;}
+h1{text-align:center;}
+h2{margin:5px;}
+p{margin:5px;}
+h2.namae{font-size:80%;}
+h2.jikan{font-size:50%;}
+.friend{text-align:left;}
+p.friend{background-color:white;color:black;margin-right:150px;}
+.jibun{text-align:right;}
+p.jibun{background-color:greenyellow;color:black;margin-left:150px;}
+img{width:100px;}
+.box {width:100px;}
+.img-left {margin-right: auto;}
+.img-right {margin-left: auto;}
